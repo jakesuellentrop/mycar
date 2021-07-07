@@ -1,0 +1,17 @@
+{
+    "name": "jake/mycar",
+    "description": "Building a car with code",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jake Suellentrop",
+            "email": "email@jakesuellentrop.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyCar\\": "src/"
+        }
+    }
+}
