@@ -36,7 +36,7 @@ class Car
 
     public function drive()
     {
-        echo "Vroom vroom mutha-fucka\n";
+        echo "Vroom vroom\n";
     }
 
     public function fuelLevel()
